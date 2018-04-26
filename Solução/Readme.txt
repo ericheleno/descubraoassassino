@@ -1,0 +1,1 @@
+Diretório de Solução .Net - Microsoft Visual Studio 2017
