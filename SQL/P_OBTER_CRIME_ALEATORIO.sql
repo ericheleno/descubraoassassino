@@ -11,7 +11,7 @@ GO
 -- Description:	Procedure que crime, suspeito,
 --              local e arma aleatórios
 -- =============================================
-CREATE PROCEDURE [dbo].[P_OBTER_CRIME] 
+CREATE PROCEDURE [dbo].[P_OBTER_CRIME_ALEATORIO] 
 	
 AS
 
